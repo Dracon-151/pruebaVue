@@ -20,6 +20,8 @@
             <example-component />
         </div>
 
-        <script src="{{ asset(js/app.js)}}" defer></script>
+        <h1>H1 de prueba</h1>
+        
+        <script src="{{ asset('js/app.js')}}" defer></script>
     </body>
 </html>
